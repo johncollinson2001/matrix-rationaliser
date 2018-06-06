@@ -9,7 +9,7 @@ E.g... given the following matrix:
 
 The following will be returned:
 
-1, 0, 0, 4
-0, 0, 0, 0
-0, 0, 0, 0
+1, 0, 0, 4<br>
+0, 0, 0, 0<br>
+0, 0, 0, 0<br>
 1, 0, 0, 4
