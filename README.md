@@ -2,9 +2,9 @@
 
 E.g... given the following matrix:
 
-1, 2, 3, 4
-1, 0, 3, 4
-1, 2, 0, 4
+1, 2, 3, 4<br>
+1, 0, 3, 4<br>
+1, 2, 0, 4<br>
 1, 2, 3, 4
 
 The following will be returned:
