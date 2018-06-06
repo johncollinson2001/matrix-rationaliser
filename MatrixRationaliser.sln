@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRationaliser", "MatrixRationaliser\MatrixRationaliser.csproj", "{42983B12-B800-4364-B63B-3492FF205448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRationaliser.Tests", "MatrixRationaliser.Tests\MatrixRationaliser.Tests.csproj", "{70B4D2DB-940B-4E9B-948B-152F5F7ACFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42983B12-B800-4364-B63B-3492FF205448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42983B12-B800-4364-B63B-3492FF205448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42983B12-B800-4364-B63B-3492FF205448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42983B12-B800-4364-B63B-3492FF205448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B4D2DB-940B-4E9B-948B-152F5F7ACFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B4D2DB-940B-4E9B-948B-152F5F7ACFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B4D2DB-940B-4E9B-948B-152F5F7ACFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B4D2DB-940B-4E9B-948B-152F5F7ACFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {052A0B26-F6A9-434C-9FF0-E3C09E2CCF1A}
+	EndGlobalSection
+EndGlobal
